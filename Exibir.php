@@ -10,6 +10,6 @@ class Exibir{
     public function exibirMensagem(array $parametros)
     {
         echo "entrou no método exibir mensagem<br />";
-        var_dump($parametros);
+        //var_dump($parametros);
     }
 }
