@@ -9,7 +9,7 @@ A classe Exibir é apenas um exemplo que você têm de como o router se comunica
 
 Use este roteador como quiser e adaptá-lo aos seus projetos e seja feliz criando suas aplicações com um sistema de rotas super simples e leve.
 
-Exemplo de chamada GET: http://localhost/router/index.php/Exibir/exibirMensagem?nome=thales
+Exemplo de chamada GET: http://localhost/boletimDeNoticias/listarUsuarios
 
 E no caso de chamadas POST passamos o nome da Classe/Método que queremos executar sem passar os parâmetros via URL.
 
