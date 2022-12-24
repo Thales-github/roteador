@@ -12,4 +12,5 @@ $metodo = $vetor[2];
 
 $instancia = new Banco();
 
-var_dump($instancia->$metodo());
+$retorno = $instancia->$metodo($_REQUEST);
+echo $retorno;
